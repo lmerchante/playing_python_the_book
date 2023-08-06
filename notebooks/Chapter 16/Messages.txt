@@ -1,0 +1,4 @@
+
+Welcome to you first game with PYGAME
+Hope you enjoy it
+Push W to start
