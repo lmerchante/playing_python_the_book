@@ -1,11 +1,6 @@
 # Playing Python.
 
-```{image} notebooks/cover/3DcoverSP.png
-:alt: Cover Page
-:class: bg-primary mb-1
-:width: 350px
-:align: center
-```
+<img src="notebooks/cover/3DcoverSP.png?raw=true" width="400">
 
 Si tienes este libro en tus manos o en tu pantalla, significa que de una manera u otra estás interesado en el mundo de la programación y muy probablemente estás cansado de las metodologías clásicas.
 
