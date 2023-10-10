@@ -9,10 +9,6 @@ Los ejemplos que se han recopilado en este libro y en el repositorio adjunto pre
 
 Esperamos que aquellos que hayáis accedido a esta colección los disfrutéis tanto como nosotros lo hemos hecho preparándolos.
 
-Si te gustaría tener una copia física de este trabajo en ESPAÑOL, puedes conseguirla [aquí](https://www.amazon.es/Playing-Python-Divi%C3%A9rtete-programando/dp/B0CKL7SMYP/).
-
-You can also have a copy in [ENGLISH](https://www.amazon.com/Playing-Python-Have-fun-coding/dp/B0CKLC2GVY) and a copy in [FRENCH](https://www.amazon.fr/Playing-Python-Amusez-vous-%C3%A0-programmer/dp/B0CKL7WNXG/)
-
 # English
 
 The authors of this book believe that there is no better way to learn, discover new resources, and retain them in memory than by doing it through playing and having fun.
@@ -37,6 +33,6 @@ https://lmerchante.github.io/playing_python/chapters/intro/intro.html
 
 Consigue una copia en ESPAÑOL [aquí](https://www.amazon.es/Playing-Python-Divi%C3%A9rtete-programando/dp/B0CKL7SMYP/).
 
-Get a copy en ENGLISH [here](https://www.amazon.com/Playing-Python-Have-fun-coding/dp/B0CKLC2GVY)
+Get a copy en ENGLISH [here](https://www.amazon.com/Playing-Python-Have-fun-coding/dp/B0CKLC2GVY).
 
-Obtenez une copie en FRANCAIS [ici](https://www.amazon.fr/Playing-Python-Amusez-vous-%C3%A0-programmer/dp/B0CKL7WNXG/)
+Obtenez une copie en FRANCAIS [ici](https://www.amazon.fr/Playing-Python-Amusez-vous-%C3%A0-programmer/dp/B0CKL7WNXG/).
