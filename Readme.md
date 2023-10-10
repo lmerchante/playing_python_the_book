@@ -1,7 +1,7 @@
 # Playing Python.
 
 <p align="center">
-  <img src="notebooks/cover/3DcoverSP.png?raw=true" width="350">
+  <img src="notebooks/cover/3DcoverSP.png?raw=true" width="300">
 </p>
 
 
