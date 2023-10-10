@@ -36,6 +36,6 @@ https://lmerchante.github.io/playing_python/chapters/intro/intro.html
 
 Consigue una copia en ESPAÑOL [aquí](https://www.amazon.es/Playing-Python-Divi%C3%A9rtete-programando/dp/B0CKL7SMYP/).
 
-Get a copy en ENGLISH [here](https://www.amazon.com/Playing-Python-Have-fun-coding/dp/B0CKLC2GVY).
+Get a copy in ENGLISH [here](https://www.amazon.com/Playing-Python-Have-fun-coding/dp/B0CKLC2GVY).
 
 Obtenez une copie en FRANCAIS [ici](https://www.amazon.fr/Playing-Python-Amusez-vous-%C3%A0-programmer/dp/B0CKL7WNXG/).
